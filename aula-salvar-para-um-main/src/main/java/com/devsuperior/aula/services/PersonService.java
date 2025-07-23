@@ -1,4 +1,4 @@
-package com.devsuperior.aula.dto.services;
+package com.devsuperior.aula.services;
 
 import com.devsuperior.aula.dto.DepartmentDTO;
 import com.devsuperior.aula.entities.Person;
